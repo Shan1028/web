@@ -1,0 +1,136 @@
+*{
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+.fullwrap{
+  width: 800px;
+  height: 1700px;
+  margin:auto;
+  background: #00859d;
+}
+.full{
+  width: 770px;
+  height: 1600px;
+  margin: auto;
+  position: relative;
+  top: 40px;
+  background: #FFFFFF;
+}
+.wrap{
+  width:600px;
+  margin: auto;
+  height: 1500px;
+}
+header{
+  background: url(/Web/lab1/site1/images/header.png);
+  height: 126px;
+  margin: auto;
+  width: 730px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.im1{
+  background-image: url(/Web/lab1/site1/images/i1.png);
+  background-size: contain;  
+  background-repeat: no-repeat;
+  margin: 20px;
+  float: left;
+  height: 230px;
+  width: 260px;
+}
+.im2{
+  background-image: url(/Web/lab1/site1/images/i2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 20px;
+  float: left;
+  height: 230px;
+  width: 260px;
+}
+.im3{
+  background-image: url(/Web/lab1/site1/images/i3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 20px;
+  float: left;
+  height: 230px;
+  width: 260px;
+}
+.im4{
+  background-image: url(/Web/lab1/site1/images/i4.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 20px;
+  float: left;
+  height: 230px;
+  width: 260px;
+}
+.vk{
+  margin: 20px;
+  float: left;
+  height: 60px;
+  width: 60px;
+}
+.vk a{
+  background-image: url(/Web/lab1/site1/images/vk.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.fb{
+  background-image: url(/Web/lab1/site1/images/facebook.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  float: left;
+  height: 60px;
+  width: 60px;
+  margin: 20px;
+}
+.fb a{
+  background-image: url(/Web/lab1/site1/images/facebook.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+figure{
+  float: left;
+  width: 260px;
+  height: 10px;
+  text-align: center;
+  margin: 20px;
+  position: relative;
+  bottom: 50px;
+}
+.knopka {
+  color: #fff; 
+  text-align: center;
+  text-decoration: none; 
+  user-select: none; 
+  background: rgb(212,75,56); 
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: rgb(212,75,56);
+  border-radius: 6px;
+} 
+.sidebar{
+  width:600px;
+  margin: auto;
+  overflow: hidden;
+}
+footer {
+  background: #00859d;
+  height: 200px;
+  position: relative;
+  bottom: 305px;
+  margin: auto;
+  width: 730px;
+  color: #fff; 
+  text-align: center;
+}
+.fot{
+  font-size: 14px;
+}
+.white{
+  color: #fff;
+}
